@@ -1,6 +1,6 @@
 {
     "name": "slothsoft/pt",
-    "description": "",
+    "description": "A Farah module that implements W3C DOM Level 2 for a MySQL Database.",
     "keywords": [],
     "license": "WTFPL",
     "authors": [
