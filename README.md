@@ -1,4 +1,4 @@
-Files and Resources and Hypertext
-=================================
+Persistent Tree
+===============
 
-A Farah module.
+A Farah module that implements W3C DOM Level 2 for a MySQL Database.
