@@ -22,10 +22,10 @@ Llo
     <resource-directory name="xsl" path="template" type="application/xslt+xml"/>
     <resource-directory name="dictionary" path="dictionary" type="application/xml"/>
     <resource-directory name="pages" path="pages" type="application/xml"/>
+    <directory name="static"/>
     <fragment name="backend">
       <use-template ref="xsl/_backend"/>
       <use-document ref="data/backend"/>
     </fragment>
-    <directory name="static"/>
   </assets>
 </module>
