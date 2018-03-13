@@ -1,4 +1,5 @@
 <?php
+declare(strict_types = 1);
 namespace Slothsoft\PT\DB;
 
 class IndexTable extends Table

@@ -1,4 +1,5 @@
 <?php
+declare(strict_types = 1);
 namespace Slothsoft\PT\DB;
 
 use Slothsoft\DBMS\Manager;
