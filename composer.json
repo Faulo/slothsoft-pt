@@ -13,15 +13,20 @@
         "php": ">=7.0",
         "slothsoft\/core": "*",
         "slothsoft\/dbms": "*",
+        "slothsoft\/farah": "*",
         "slothsoft\/w3c": "*"
     },
     "require-dev": {
         "phpunit\/phpunit": ">=6.0",
         "slothsoft\/core": "dev-master",
         "slothsoft\/dbms": "dev-master",
+        "slothsoft\/farah": "dev-master",
         "slothsoft\/w3c": "dev-master"
     },
     "autoload": {
+        "files": [
+            "src\/registerModule.php"
+        ],
         "psr-0": {
             "Slothsoft\\PT\\": "src\/"
         }
