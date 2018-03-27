@@ -14,6 +14,7 @@
         "slothsoft\/core": "*",
         "slothsoft\/dbms": "*",
         "slothsoft\/farah": "*",
+        "slothsoft\/lang": "*",
         "slothsoft\/w3c": "*"
     },
     "require-dev": {
@@ -21,6 +22,7 @@
         "slothsoft\/core": "dev-master",
         "slothsoft\/dbms": "dev-master",
         "slothsoft\/farah": "dev-master",
+        "slothsoft\/lang": "dev-master",
         "slothsoft\/w3c": "dev-master"
     },
     "autoload": {
